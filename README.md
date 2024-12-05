@@ -1,3 +1,9 @@
+> **Note:** This repository is a **copy** of the code developed for my master's thesis on building a specialized ChatGPT-like system, completed during an internship at **New York University Abu Dhabi**.
+
+
+
+
+
 # LLM-Finetuner
 this repo is dedicated for a framework that facilitates the process of fine tuning LLMs from data preprocessing to evaluation with an emphasize on efficiency and cost-effectiveness
 
